@@ -1,5 +1,13 @@
 QBCore furniture system working with props from base game GTA and Custom props. 
 
+This script is custom made to work with my own server/props. I thought i'd share it here free of charge. 
+
+What it does?
+- Places furniture via items.
+- The script looks for any solid surface. So you are able to put things on top of eachother.
+- Simple as that really.
+
+
 Look up GTA props:
 https://forge.plebmasters.de/ 
 
